@@ -6,11 +6,11 @@
 
 #### 참조
 
-![image](https://user-images.githubusercontent.com/114221089/217723424-f6857fd9-f2c9-47b8-952d-880b77c8bfd4.png)
+![image](https://user-images.githubusercontent.com/114221089/217723479-3307881a-51e2-40cf-8aac-1e1db8ef638c.png)
 
 
 #### 2) GAN 형태 : train 부분만 산타를 학습해서 새로운 산타생성
 
 #### 참조
 
-![image](https://user-images.githubusercontent.com/114221089/217723178-f7338b1a-1a00-41f5-8062-bf4dcd6190fb.png)
+![image](https://user-images.githubusercontent.com/114221089/217723505-a282905f-600e-4b4e-8b25-2ef5c685e08e.png)
