@@ -14,3 +14,8 @@
 #### 참조
 
 ![image](https://user-images.githubusercontent.com/114221089/217723505-a282905f-600e-4b4e-8b25-2ef5c685e08e.png)
+
+### Epoch 150회 진행시 이미지
+
+![image](https://user-images.githubusercontent.com/114221089/218028026-49143cec-fff7-4799-85c9-bc62ba0e745c.png)
+
