@@ -17,5 +17,5 @@
 
 ### Epoch 150회 진행시 이미지
 
-![image](https://user-images.githubusercontent.com/114221089/218028026-49143cec-fff7-4799-85c9-bc62ba0e745c.png)
+![image](https://user-images.githubusercontent.com/114221089/218302069-747623a9-08e0-439c-bc14-21f8a4310a6d.png)
 
