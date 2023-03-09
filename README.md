@@ -9,3 +9,4 @@
 #### 4. IS_that_santa_data : santa와 santa가 아닌 이미지 학습 
   - (23.02.12 Dropout 추가)
 #### 5. 타코와브리또_구분하기 : 이미지 분류 모델 사용(resnet)
+#### 6. GPUNet_Image_Dog : GPU-Net을 사용한 이미지 디텍션 위주
